@@ -1,5 +1,13 @@
 ### Hello World! 🌏
 
-My name is Mirko. I am Solidity & React Developer.
+My name is Mirko. I am Blockchain Developer. 
+
+**Technology Stack:**
+- Solidity
+- Web3.js 
+- JavaScript 
+- React.js
+
+<br/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mirkopezo/)
