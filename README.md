@@ -1,4 +1,4 @@
-### Hello World! 🌏
+### GM World! 🌏
 
 My name is Mirko. I am Blockchain Developer. 
 
