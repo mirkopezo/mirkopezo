@@ -4,7 +4,7 @@ My name is Mirko. I am Blockchain Developer.
 
 **Technology Stack:**
 - Solidity
-- Web3.js 
+- ethers.js 
 - JavaScript 
 - React.js
 
