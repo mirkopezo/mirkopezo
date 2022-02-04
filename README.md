@@ -1,6 +1,6 @@
-### GM World! 🌏
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=40&duration=4000&vCenter=true&width=700&height=60&lines=gm+world!;My+name+is+Mirko.;I+am+Blockchain+Developer.;Let's+build+together!)](https://git.io/typing-svg)
 
-My name is Mirko. I am Blockchain Developer. 
+<br />
 
 **Technology Stack:**
 - Solidity
