@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=4000&vCenter=true&width=700&height=60&lines=gm+world!;My+name+is+Mirko.;I+am+Blockchain+Developer.;Let's+build+together!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234CBB17&size=30&duration=4000&vCenter=true&width=700&height=60&lines=gm+world!;My+name+is+Mirko.;I+am+Blockchain+Developer.;Let's+build+together!)
 
 **Technology Stack:**
 - Solidity
