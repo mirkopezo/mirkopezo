@@ -1,4 +1,3 @@
-# 💫About Me :
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234CBB17&size=30&duration=4000&vCenter=true&width=700&height=60&lines=gm+world!;My+name+is+Mirko.;I+am+Blockchain+Developer.;Let's+build+together!)
 
 ## 🌐Socials
@@ -11,8 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mirkopezo&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirkopezo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
 [![](https://visitcount.itsvg.in/api?id=mirkopezo&icon=0&color=3)](https://visitcount.itsvg.in)
