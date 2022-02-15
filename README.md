@@ -13,4 +13,4 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
-[![](https://visitcount.itsvg.in/api?id=mirkopezo&icon=0&color=3)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=mirkopezo&icon=0&color=3)
