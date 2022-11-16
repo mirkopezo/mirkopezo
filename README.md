@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234CBB17&size=30&duration=4000&vCenter=true&width=700&height=60&lines=gm+world.;my+name+is+Mirko.;I+am+blockchain+developer.;let's+build+together!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234CBB17&size=30&duration=4000&vCenter=true&width=700&height=60&lines=gm.;my+name+is+Mirko.;I+am+blockchain+developer.;let's+build+together!)
 
 ## 💻 Tech Stack
 [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
