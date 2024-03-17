@@ -8,7 +8,7 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirko-pezo) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mirko_pezo) 
-[![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:pezo@tutanota.com)
+[![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:mirko@tuta.com)
 
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mirkopezo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
